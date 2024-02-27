@@ -1,12 +1,12 @@
 [submodule "frontend"]
 	path = frontend
-	url = ./frontend
+	url = https://github.com/retr0717/vercel-frontend.git
 [submodule "vercel-upload"]
 	path = vercel-upload
-	url = ./vercel-upload
+	url = https://github.com/retr0717/vercel-upload.git
 [submodule "vercel-deploy"]
 	path = vercel-deploy
-	url = ./vercel-deploy
+	url = https://github.com/retr0717/vercel-deploy.git
 [submodule "vercel-req-handler"]
 	path = vercel-req-handler
-	url = ./vercel-req-handler
+	url = https://github.com/retr0717/vercel-req-handler.git
