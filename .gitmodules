@@ -1,0 +1,12 @@
+[submodule "frontend"]
+	path = frontend
+	url = ./frontend
+[submodule "vercel-upload"]
+	path = vercel-upload
+	url = ./vercel-upload
+[submodule "vercel-deploy"]
+	path = vercel-deploy
+	url = ./vercel-deploy
+[submodule "vercel-req-handler"]
+	path = vercel-req-handler
+	url = ./vercel-req-handler
